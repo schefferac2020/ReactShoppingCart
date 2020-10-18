@@ -1,0 +1,10 @@
+.Counter {
+  border: 2px solid black;
+  width: 200px;
+  margin: 1rem auto;
+  text-align: center;
+}
+
+.Counter button {
+  font-size: 2rem;
+}

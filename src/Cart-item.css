@@ -1,0 +1,22 @@
+.Cart-item {
+  margin-top: 3em;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Cart-item div {
+  width: 25%;
+}
+
+.Cart-item button {
+  width: 30px;
+  height: 30px;
+  background-color: #e1e8ee;
+  border-radius: 6px;
+  margin: 0 3px;
+  border: none;
+}
+
+.Cart-item button:disabled {
+  background-color: #f8f9fa;
+}
